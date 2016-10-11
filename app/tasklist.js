@@ -1,0 +1,22 @@
+/**
+ * Created by Nathan Nahina on 10/11/2016.
+ */
+Tasks = new Mongo.Collection('tasks');
+
+if (Meteor.isClient) {
+  Template.tasks.helpers({
+    tasks: function (){
+      return Tasks.find({}, {sort: {createdAt: -1}});
+    }
+  });
+
+  Template.tasks.events({
+    "submit .add-task": function(event){
+      let name = event.target.name.value;
+    }
+  });
+}
+
+if (Meteor.isServer) {
+
+}
