@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11ed7bc0-3589-49a6-a297-338b65d10727" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tasklist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tasklist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/tasklist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasklist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasklist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tasklist.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/client/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/client/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/client/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/server/main.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tasklist.html" afterPath="$PROJECT_DIR$/app/tasklist.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/tasklist.js" afterPath="$PROJECT_DIR$/app/tasklist.js" />
     </list>
     <ignored path="meteor-50-minutes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +27,8 @@
       <file leaf-file-name="tasklist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/tasklist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            <state relative-caret-position="36">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -48,8 +37,8 @@
       <file leaf-file-name="tasklist.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/tasklist.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="27">
+              <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
               <folding>
                 <element signature="e#0#50#0" expanded="false" />
               </folding>
@@ -91,7 +80,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
+    <option name="x" value="7" />
     <option name="y" value="-18" />
     <option name="width" value="1054" />
     <option name="height" value="980" />
@@ -312,7 +301,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="-18" width="1054" height="980" extended-state="0" />
+    <frame x="7" y="-18" width="1054" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -410,16 +399,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tasklist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        <state relative-caret-position="36">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/tasklist.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="27">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
           <folding>
             <element signature="e#0#50#0" expanded="false" />
           </folding>
